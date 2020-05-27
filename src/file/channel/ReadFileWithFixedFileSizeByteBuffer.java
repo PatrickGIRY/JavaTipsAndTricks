@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.file.Paths;
-import java.util.stream.IntStream;
 
 public class ReadFileWithFixedFileSizeByteBuffer {
 
