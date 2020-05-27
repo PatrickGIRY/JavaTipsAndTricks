@@ -7,3 +7,4 @@ Ways to read as text file using `FileChannel`
 * Read small text file.
 * Read larger text file
 * Read larger text file way 2.
+* Read file with `MappedByteBuffer`.
