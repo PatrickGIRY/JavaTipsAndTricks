@@ -4,3 +4,4 @@ Ways to read as text file using `FileChannel`
 
 * Read a file using `ByteBuffer` of file size.
 * Read a file with fixed size `ByteBuffer`.
+* Read small text file.
