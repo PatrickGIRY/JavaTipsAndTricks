@@ -1,4 +1,4 @@
-package file.channel;
+package file.channel.read;
 
 import java.io.IOException;
 import java.nio.channels.FileChannel;
